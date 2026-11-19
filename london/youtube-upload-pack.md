@@ -1,5 +1,7 @@
 # 倫敦篇 — YouTube 上載包（v1，2026-11-19）
 
+> ✅ 已於 2026-11-19 公開：https://youtu.be/2JFyWGTPrEQ（照預覽聲線版直接上架；標籤 23 個跟第 1 集現行標籤改編，未加「通識」；字幕粵語＋中文（香港）兩軌已發布。簡介格式已按 Studio 第 1 集實況對齊——工具連結標題作「▶ 太陽追蹤智能鐘連結：」。）
+
 影片：`ppt/london/video/london-solar-path-preview.mp4`（1080p、11:53、HiuMaan 預覽聲線）
 字幕：`ppt/london/video/london-subtitles.srt`（136 條；上載兩次：粵語＋中文（香港））
 封面：**C 向南花園款**（聰哥 2026-11-19 揀定）`ppt/london/thumbs/thumb-C-garden.jpg`，1280×720
